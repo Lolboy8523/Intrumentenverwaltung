@@ -1,2 +1,3 @@
-public class Instrument {
+public class Instrument
+{
 }
