@@ -5,8 +5,9 @@ POS-Projekt von Berger, Heissenberger & Hofbauer
 Ziel des Projekts ist eine H2-Datenbank Verwaltung für einen Instrumentenverleih. 
 Dabei wird mit 4 Tabellen gearbeitet.
 
-- Instrument
-- Instrument-Typ (Streich, Blas, Zupf uvm ...)
-- Verleih
-- Kunde
-- (Bei Bedarf eine seperate Tabelle für PLZ - Ort)
+- Instrument (Dominik Berger)
+- Instrument-Typ (Streich, Blas, Zupf uvm ...Dominik Berger)
+- Verleih (Bernadette Heissenberger)
+- Kunde (Martin Hofbauer)
+- Ort PLZ (Martin Hofbauer)
+- Servicesstelle (Bernadette Heissenberger)
